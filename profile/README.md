@@ -1,12 +1,20 @@
-## Hi there 👋
+# Onboarding 👋
 
-<!--
+Привет! Тут будут распологаться opensource проекты в которых ты можешь принять участие с помощью своих PR. Это отличная практика для тебя, каждое твоё действие важно для нас!
 
-**Here are some ideas to get you started:**
+## Стэк 🍿
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Ruby 3
+- Rails 7
+- Javascript
+- Rust
+
+## Как присоединиться 🧙
+1. Выбрать придложенную ниже задачу (скоро их появится много)
+2. Написать @syr1tsa в телеграм и прислать номер задачи вместе с твоей почтой github
+3. Сделать Fork
+4. Новая ветка - dev
+5. Сделать PR
+6. Написать @syr1tsa и дождаться merge 
+
+## Таски 👩‍💻
